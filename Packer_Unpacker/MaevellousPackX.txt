@@ -1,0 +1,20 @@
+Program3.java 120                                                                                   class Program3 
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Jay Ganesh...");
+    }
+}
+Program2.cpp 82                                                                                     #include<stdio.h>
+int main()
+{
+    printf("Jay Ganesh...\n");
+    
+    return 0;
+}Program1.c 82                                                                                       #include<stdio.h>
+int main()
+{
+    printf("Jay Ganesh...\n");
+    
+    return 0;
+}

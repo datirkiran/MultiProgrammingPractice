@@ -2,7 +2,7 @@ class Program710
 {
     public static void main(String A[]) 
      {
-        String header = "india is my country";
+        String header = "india  is  my  country";
         
         String Arr[] = header.split(" ");
 
